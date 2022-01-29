@@ -1,0 +1,3 @@
+USE ort;
+DROP TABLE Player;
+DROP TABLE Team;
