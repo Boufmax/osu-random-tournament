@@ -1,4 +1,4 @@
-# Osu Random Tournament  
+# osu! Random Tournament  
 Osu! Random Tournament was a tournament on a game called Osu!, a rhythm game, where people fight against each other in randomized team composed of 4 players.
 The idea was to create a website where players can register to the tournament and see their team when the tournament was running.
 The website is written using both VueJS and Python 3 (Flask).
@@ -21,7 +21,7 @@ The website is written using both VueJS and Python 3 (Flask).
 - Type ``npm i`` to install the packages
 - Type ``npm run dev`` to run the website front-end
 
-##
+## Backend part
 
 - Go to the ``api`` directory
 - Type ``pip install -r requirements.txt``
